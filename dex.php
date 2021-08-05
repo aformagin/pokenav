@@ -36,21 +36,11 @@ session_start();
                 <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
             </li>
 
-            <!-- Dropdown menu within the nav bar -->
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    More...
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">About</a>
-                    <a class="dropdown-item" href="#">Credit</a>
-                </div>
-            </li>
-
             <li class="nav-item">
                 <a class="nav-link" href="dex.php">Pokedex</a>
             </li>
 
+            <!-- Dropdown menu within the nav bar -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Account

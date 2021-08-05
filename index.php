@@ -30,21 +30,11 @@ session_start();
                         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                     </li>
 
-                    <!-- Dropdown menu within the nav bar -->
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            More...
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">About</a>
-                            <a class="dropdown-item" href="#">Credit</a>
-                        </div>
-                    </li>
-
                     <li class="nav-item">
                         <a class="nav-link" href="dex.php">Pokedex</a>
                     </li>
 
+                    <!-- Dropdown menu within the nav bar -->
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Account
@@ -74,7 +64,6 @@ session_start();
                                 Some of these pages will include a randomized guessing games and display the statistics
                                 for many of the Pokémon!  Learn a little bit about us: <a href="#" >About Us</a></p></li>
                         <li><h3>Pokedex</h3><hr><p>Search for your favourites! <a href="dex.php" >Pokedex</a></p></li>
-                        <li><h3>FeedBack</h3><hr><p>Lets us know what you think about our website: <a href="feedback.php" >Feedback</a></p></li>
                     </ul>
                 </description>
             </div>
