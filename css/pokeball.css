@@ -1,0 +1,34 @@
+/* Login CSS I needed to make it look nicer*/
+.poke-body{
+    min-width: min-content;
+    background: #7dad71 url("https://i.pinimg.com/originals/26/b5/55/26b5551ba10f013a335e91b98f530d51.png") no-repeat;
+
+}
+
+.login-btn{
+    padding: 2%;
+}
+.spacing {
+    padding: 2%;
+}
+.center-max-content{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: max-content;
+}
+.btn-div-center{
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+
+.ctn-trans{
+    opacity: 0.75;
+}
+.ctn-contents{
+    opacity: 1;
+}
+/* Nav CSS */
+.nav-min{
+    min-width: min-content;
+}
