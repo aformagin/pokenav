@@ -62,7 +62,7 @@ session_start();
                                 series of Pokémon games. On the website, we will have various pages that will offer the
                                 user, information on the game mechanics and valuable information on each Pokémon.
                                 Some of these pages will include a randomized guessing games and display the statistics
-                                for many of the Pokémon!  Learn a little bit about us: <a href="#" >About Us</a></p></li>
+                                for many of the Pokémon! </p></li>
                         <li><h3>Pokedex</h3><hr><p>Search for your favourites! <a href="dex.php" >Pokedex</a></p></li>
                     </ul>
                 </description>
